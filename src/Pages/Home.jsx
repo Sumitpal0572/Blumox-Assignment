@@ -1,6 +1,7 @@
 import React from "react";
 import Navbar from "../components/navbar";
 import FlightForm from "../components/FlightForm";
+import Offers from "../components/Offer";
 
 const Home = () => {
   return (
@@ -49,6 +50,7 @@ const Home = () => {
           className="h-8"
         />
       </div>
+      <Offers />
     </div>
   );
 };
