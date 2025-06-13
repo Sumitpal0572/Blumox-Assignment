@@ -10,12 +10,10 @@ const Navbar = () => {
         <li>Business</li>
         <li>About Us</li>
         <li>Contact us</li>
-      </ul>
-      <div className="flex gap-4 text-sm">
         <span>UK | ENG</span>
         <span>Login</span>
         <span>Sign Up</span>
-      </div>
+      </ul>
     </nav>
   );
 };
