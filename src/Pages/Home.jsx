@@ -6,6 +6,7 @@ import DiscoverSection from "../components/DiscoverSection";
 import ExploreNearby from "../components/ExploreNearB";
 import WhyFlyGlobe from "../components/WhyFlyglobe";
 import ContactForm from "../components/ContactForm";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -59,6 +60,7 @@ const Home = () => {
       <ExploreNearby />
       <WhyFlyGlobe />
       <ContactForm />
+      <Footer />
     </div>
   );
 };
