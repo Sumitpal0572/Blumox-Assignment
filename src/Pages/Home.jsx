@@ -3,6 +3,7 @@ import Navbar from "../components/navbar";
 import FlightForm from "../components/FlightForm";
 import Offers from "../components/Offer";
 import DiscoverSection from "../components/DiscoverSection";
+import ExploreNearby from "../components/ExploreNearB";
 
 const Home = () => {
   return (
@@ -53,6 +54,7 @@ const Home = () => {
       </div>
       <Offers />
       <DiscoverSection />
+      <ExploreNearby />
     </div>
   );
 };
