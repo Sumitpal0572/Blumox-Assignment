@@ -5,6 +5,7 @@ import Offers from "../components/Offer";
 import DiscoverSection from "../components/DiscoverSection";
 import ExploreNearby from "../components/ExploreNearB";
 import WhyFlyGlobe from "../components/WhyFlyglobe";
+import ContactForm from "../components/ContactForm";
 
 const Home = () => {
   return (
@@ -57,6 +58,7 @@ const Home = () => {
       <DiscoverSection />
       <ExploreNearby />
       <WhyFlyGlobe />
+      <ContactForm />
     </div>
   );
 };
