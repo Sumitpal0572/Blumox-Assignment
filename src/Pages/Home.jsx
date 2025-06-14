@@ -4,6 +4,7 @@ import FlightForm from "../components/FlightForm";
 import Offers from "../components/Offer";
 import DiscoverSection from "../components/DiscoverSection";
 import ExploreNearby from "../components/ExploreNearB";
+import WhyFlyGlobe from "../components/WhyFlyglobe";
 
 const Home = () => {
   return (
@@ -55,6 +56,7 @@ const Home = () => {
       <Offers />
       <DiscoverSection />
       <ExploreNearby />
+      <WhyFlyGlobe />
     </div>
   );
 };
