@@ -35,31 +35,31 @@ const WhyFlyGlobe = () => {
         ))}
       </div>
 
-      <div className="mt-10 lg:mt-0 lg:w-1/4 text-center lg:text-left">
+      <div className="mt-10 lg:mt-0 lg:w-1/4 m-20 text-center lg:text-left">
         <div className="flex justify-center  lg:justify-start -space-x-4 mb-2">
           <img
             src="https://randomuser.me/api/portraits/men/32.jpg"
             alt="user1"
-            className="w-10 h-10 rounded-full border-2 border-white"
+            className="w-20 h-20 rounded-full border-2 border-red-600"
           />
           <img
             src="https://randomuser.me/api/portraits/women/44.jpg"
             alt="user2"
-            className="w-10 h-10 rounded-full border-2 border-white"
+            className="w-20 h-20 rounded-full border-2 border-red-600"
           />
           <img
             src="https://randomuser.me/api/portraits/men/56.jpg"
             alt="user3"
-            className="w-10 h-10 rounded-full border-2 border-white"
+            className="w-20 h-20 rounded-full border-2 border-red-600"
           />
-          <div className="w-10 h-10 flex items-center justify-center text-sm font-bold text-white bg-[#1c2b2d] rounded-full border-2 border-white">
+          <div className="w-20 h-20 flex items-center justify-center text-sm font-bold text-white bg-[#1c2b2d] rounded-full border-2 border-red-600">
             +3k
           </div>
         </div>
         <div className="flex "></div>
-        <p className="text-sm font-semibold text-gray-600">WHY FLYGLOBE</p>
+        <p className="text-sm font-semibold text-black">WHY FLYGLOBE</p>
         <p className="text-lg text-black font-bold">Our happy travellers</p>
-        <p className="text-sm text-gray-500">4.9 (3.5k Reviews)</p>
+        <p className="text-sm text-black">4.9 (3.5k Reviews)</p>
       </div>
     </section>
   );
