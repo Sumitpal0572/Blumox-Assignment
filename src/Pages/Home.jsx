@@ -2,6 +2,7 @@ import React from "react";
 import Navbar from "../components/navbar";
 import FlightForm from "../components/FlightForm";
 import Offers from "../components/Offer";
+import DiscoverSection from "../components/DiscoverSection";
 
 const Home = () => {
   return (
@@ -51,6 +52,7 @@ const Home = () => {
         />
       </div>
       <Offers />
+      <DiscoverSection />
     </div>
   );
 };
