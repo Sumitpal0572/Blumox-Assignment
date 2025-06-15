@@ -1,8 +1,23 @@
-# React + Vite
+# ✈️ FlyGlobe – Flight Booking Form UI
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive flight booking form UI built using **React** and **Tailwind CSS**, inspired by real-world airline booking systems. This project is focused on designing a clean, user-friendly interface for selecting flight options like destination, travel dates, passenger count, and seat class.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+
+- Round Trip / One Way toggle
+- From & To input fields (static text in UI version)
+- Departure and Return dates
+- Passenger count display
+- Seat class selection (Economy by default)
+- Select Airlines dropdown (static)
+- Direct flights only checkbox
+- Fully responsive and mobile-friendly
+- Styled with Tailwind CSS
+- Clean, modular React component
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- JSX, HTML5, CSS3
