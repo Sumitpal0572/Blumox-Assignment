@@ -21,3 +21,6 @@ A modern and responsive flight booking form UI built using **React** and **Tailw
 - [React](https://reactjs.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - JSX, HTML5, CSS3
+
+### Deployment Link
+[Check It Here](https://blumox-assignment-6t7b.vercel.app/)
