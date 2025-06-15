@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../components/navbar";
+import Navbar from "../components/Navbar";
 import FlightForm from "../components/FlightForm";
 import Offers from "../components/Offer";
 import DiscoverSection from "../components/DiscoverSection";
