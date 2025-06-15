@@ -14,7 +14,7 @@ const Home = () => {
       className="text-white min-h-screen bg-cover bg-center"
       style={{
         backgroundImage:
-          "url('https://t3.ftcdn.net/jpg/06/73/74/66/360_F_673746672_oSwVBOEAy3qOIGia1pSgwfxhHS8oxgTD.jpg')",
+          "url('https://images.stockcake.com/public/5/e/4/5e4b81d2-7bc1-429b-b0a8-711120d1565d_medium/airplane-interior-scene-stockcake.jpg')",
       }}
     >
       <Navbar />
